@@ -3,7 +3,7 @@
 	"semi": true,
 	"singleQuote": true,
 	"bracketSpacing": false,
-	"brackerSameLine": false,
+	"bracketSameLine": false,
 	"quoteProps": "consistent",
 	"printWidth": 100,
 	"useTabs": true,
