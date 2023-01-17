@@ -11,5 +11,5 @@ npm install --save-dev @clarifynl/prettier-config-clarify
 In your `package.json`, add the following:
 
 ```js
-"prettier": "prettier-config-clarify"
+"prettier": "@clarifynl/prettier-config-clarify"
 ```
