@@ -8,11 +8,5 @@
 	},
 	"author": "Clarify",
 	"license": "MIT",
-	"main": "index.json",
-	"devDependencies": {
-		"prettier": "^3.2.5"
-	},
-	"peerDependencies": {
-		"prettier": "3.2.5"
-	}
+	"main": "index.json"
 }
